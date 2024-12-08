@@ -10,6 +10,7 @@ English / [简体中文](./README_CN.md)
 
 One-Click to get a well-designed cross-platform ChatGPT web UI, with GPT3, GPT4 & Gemini Pro support.
 
+触发重新部署
 一键免费部署你的跨平台私人 ChatGPT 应用, 支持 GPT3, GPT4 & Gemini Pro 模型。
 
 [![Saas][Saas-image]][saas-url]
